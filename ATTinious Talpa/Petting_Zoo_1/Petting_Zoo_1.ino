@@ -1,6 +1,9 @@
 //Sensor: TMP36
 //Output: Neopixel Strip
 
+//The ATTinious Tulpa is an animal that prefers to stay hidden. Instead of cloaking itself in the visible light spectrum, it instead it mimics the 
+//infrared wavelengths of Electromagnetic Radiation around it.
+
 #include <Adafruit_NeoPixel.h>
 
 //strip for the chameleon's camo

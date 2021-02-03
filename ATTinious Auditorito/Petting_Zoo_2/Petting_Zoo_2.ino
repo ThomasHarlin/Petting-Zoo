@@ -1,5 +1,7 @@
 //Sensor: Capacitive Touch
 //Output: Piezo
+//The ATTinious Auditorito is a member of the toad family, and as such has a distinctive croak. The toad is also highly territorial, and when approached it will 
+//begin to emmit a highly unplesant defensive croak. When left alone, it tends to send out exploratory croaks hoping to recieve a reply from a fellow toad.
 
 #include <CapacitiveSensor.h>
 CapacitiveSensor   cs_4_2 = CapacitiveSensor(0, 1);
